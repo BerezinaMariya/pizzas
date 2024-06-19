@@ -42,7 +42,7 @@ export class MainComponent implements OnInit, AfterViewInit {
     // const modalRef = this.modalService.open(PopupComponent);
     // modalRef.componentInstance.data = 'Main Component';
 
-    this.popupComponent.open();
+    // this.popupComponent.open();
   }
 
   // test(popup: TemplateRef<ElementRef>) {
